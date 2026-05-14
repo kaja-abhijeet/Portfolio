@@ -100,7 +100,7 @@ export function About() {
           {[
             { value: "4+", label: "AI Projects" },
             { value: "200+", label: "DSA Problems" },
-            { value: "8.02", label: "CGPA" },
+            { value: "8.1", label: "CGPA" },
             { value: "3+", label: "Certifications" },
           ].map((stat, i) => (
             <div key={i} className="glass rounded-2xl px-6 py-5 text-center border border-white/5">

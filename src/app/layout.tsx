@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Abhijeet Kaja | AI Engineer",
+  title: "Abhijeet Kaja",
   description: "Portfolio of Abhijeet Kaja, specializing in Artificial Intelligence, NLP, and Large Language Models.",
 };
 

@@ -93,7 +93,7 @@ export function Hero() {
           </span>
           <span className="mx-3 text-indigo-500">·</span>
           <span className="text-xl md:text-2xl text-gray-300 font-medium">
-            Aspiring MLOps Engineer
+            Aspiring AI Engineer
           </span>
         </motion.div>
 
@@ -107,7 +107,7 @@ export function Hero() {
           I specialize in building intelligent AI agents and working with Large Language Models.
           Focused on{" "}
           <span className="text-indigo-400 font-medium">NLP</span>,{" "}
-          <span className="text-purple-400 font-medium">LangChain</span>, and{" "}
+          <span className="text-purple-400 font-medium">Agentic AI</span>, and{" "}
           <span className="text-blue-400 font-medium">Explainable AI</span>.
         </motion.p>
 
